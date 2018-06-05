@@ -12,7 +12,7 @@ if number< 3
   puts "good job,Rachel"
 elsif number == 3 
   puts "Slow down"
-elsif number > 2
+elsif number > 3
   puts "get back on animal restriction"
 end
 end 
