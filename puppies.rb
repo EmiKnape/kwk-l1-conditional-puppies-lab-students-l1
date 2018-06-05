@@ -10,7 +10,7 @@ puts no_puppies(3)
 def less_puppies(number)
  if number < 3
   "Get back on your animal restriction"
-elsif number = 3 
+elsif number == 3 
   "Slow down"
 else number > 3
   "Good Job!"
